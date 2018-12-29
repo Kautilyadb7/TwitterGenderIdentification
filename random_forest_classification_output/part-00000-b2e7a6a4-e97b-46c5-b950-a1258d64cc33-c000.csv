@@ -1,0 +1,10 @@
+gender,predicted_gender,count
+brand,brand,384
+brand,female,521
+brand,male,164
+female,brand,33
+female,female,1416
+female,male,104
+male,brand,33
+male,female,1044
+male,male,226
